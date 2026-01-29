@@ -4,7 +4,9 @@ This example agent provides the minimum setup required to compete in the W4A tou
 ## Instructions for setup
 - In ***pyproject.toml***: replace the 'example_agent' package name with a unique name for your package.
 - In the ***src*** directory, rename the existing 'example_agent' module name to a unique name (it may be the same as your package name).
+- You are free to rename the agent class to whatever you would like, but renaming is optional.
 - Commit changes and push to Github.
+- Make sure your repository is set to 'public'.
 - Validate your setup by running a training session on the W4A at https://play.war.game/TBD and wait for the training to complete.
 
 ## Instructions for competing in the tournament
