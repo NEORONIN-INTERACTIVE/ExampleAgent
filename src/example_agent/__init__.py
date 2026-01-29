@@ -1,7 +1,7 @@
 __version__ = "0.1.0"
 
-from .testing_agent import TestingAgent
+from .my_agent import MyAgent
 
 __all__ = [
-	"TestingAgent"
+	"MyAgent"
 ]
